@@ -1,4 +1,4 @@
-# **Imagnify**
+# **Imaginify**
 
 ## Overview
 Welcome to the AI Image SaaS Platform! This platform leverages advanced artificial intelligence to offer state-of-the-art image processing capabilities. With a wide range of features, secure payment integration, and powerful image search functionalities, our platform is designed to meet all your image editing and enhancement needs.
