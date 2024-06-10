@@ -30,8 +30,8 @@ Welcome to the AI Image SaaS Platform! This platform leverages advanced artifici
 ### Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/ai-image-saas-platform.git
-   cd ai-image-saas-platform
+   git clone https://github.com/yourusername/ai-image-saas-platform.git](https://github.com/Tanishq1604/Imaginify.git
+   cd Imaginify
    ```
 
 2. **Make an Env like the env.example **
